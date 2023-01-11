@@ -26,7 +26,7 @@ elif random_number == 8:
 elif random_number == 9:
   answer = "Very doubtful"
 elif random_number == 10:
-  answer = "Just a joke"  
+  answer = "Do not bother me more"  
 else:
   answer = "Error"
 if name == "":
